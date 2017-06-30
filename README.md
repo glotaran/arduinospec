@@ -1,2 +1,2 @@
 # arduinospec
-Control and command software for the chlorospec software
+Control and command software for the arduinospec software
